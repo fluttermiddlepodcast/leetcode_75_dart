@@ -17,3 +17,9 @@
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                          | `Medium`  | [product_of_array_except_self.dart](./lib/array_string/product_of_array_except_self.dart)                         |
 | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)                      | `Medium`  | [increasing_triplet_subsequence.dart](./lib/array_string/increasing_triplet_subsequence.dart)                     |
 | [443. String Compression](https://leetcode.com/problems/string-compression/)                                              | `Medium`  | [string_compression.dart](./lib/array_string/string_compression.dart)                                             |
+
+### Two Pointers
+
+| Задача                                                         | Сложность | Решение                                                 |
+| -------------------------------------------------------------- | --------- | ------------------------------------------------------- |
+| [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | `Easy`    | [move_zeroes.dart](./lib/two_pointers/move_zeroes.dart) |
