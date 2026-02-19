@@ -20,6 +20,7 @@
 
 ### Two Pointers
 
-| Задача                                                         | Сложность | Решение                                                 |
-| -------------------------------------------------------------- | --------- | ------------------------------------------------------- |
-| [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | `Easy`    | [move_zeroes.dart](./lib/two_pointers/move_zeroes.dart) |
+| Задача                                                               | Сложность | Решение                                                       |
+| -------------------------------------------------------------------- | --------- | ------------------------------------------------------------- |
+| [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)       | `Easy`    | [move_zeroes.dart](./lib/two_pointers/move_zeroes.dart)       |
+| [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | `Easy`    | [is_subsequence.dart](./lib/two_pointers/is_subsequence.dart) |
