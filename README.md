@@ -20,8 +20,9 @@
 
 ### Two Pointers
 
-| Задача                                                                                    | Сложность | Решение                                                                             |
-| ----------------------------------------------------------------------------------------- | --------- | ----------------------------------------------------------------------------------- |
-| [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)                            | `Easy`    | [move_zeroes.dart](./lib/two_pointers/move_zeroes.dart)                             |
-| [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)                      | `Easy`    | [is_subsequence.dart](./lib/two_pointers/is_subsequence.dart)                       |
-| [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | `Medium`  | [container_with_most_water.dart](./lib/two_pointers/container_with_most_water.dart) |
+| Задача                                                                                      | Сложность | Решение                                                                             |
+| ------------------------------------------------------------------------------------------- | --------- | ----------------------------------------------------------------------------------- |
+| [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)                              | `Easy`    | [move_zeroes.dart](./lib/two_pointers/move_zeroes.dart)                             |
+| [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)                        | `Easy`    | [is_subsequence.dart](./lib/two_pointers/is_subsequence.dart)                       |
+| [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)   | `Medium`  | [container_with_most_water.dart](./lib/two_pointers/container_with_most_water.dart) |
+| [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | `Medium`  | [max_number_of_k_sum_pairs.dart](./lib/two_pointers/max_number_of_k_sum_pairs.dart) |
