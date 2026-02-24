@@ -26,3 +26,9 @@
 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)                        | `Easy`    | [is_subsequence.dart](./lib/two_pointers/is_subsequence.dart)                       |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)   | `Medium`  | [container_with_most_water.dart](./lib/two_pointers/container_with_most_water.dart) |
 | [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | `Medium`  | [max_number_of_k_sum_pairs.dart](./lib/two_pointers/max_number_of_k_sum_pairs.dart) |
+
+### Sliding Window
+
+| Задача                                                                        | Сложность | Решение                                                                                 |
+| ----------------------------------------------------------------------------- | --------- | --------------------------------------------------------------------------------------- |
+| [643. Maximum Average Subarray I](https://leetcode.com/problems/move-zeroes/) | `Easy`    | [maximum_average_subarray_i.dart](./lib/sliding_window/maximum_average_subarray_i.dart) |
