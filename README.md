@@ -1,5 +1,7 @@
 # LeetCode 75
 
+![GitHub Actions](https://github.com/fluttermiddlepodcast/leetcode_75_dart/actions/workflows/dart.yaml/badge.svg)
+
 Решенные задачи из списка LeetCode 75 на Дарте.
 
 ## Список задач
