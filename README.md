@@ -29,6 +29,7 @@
 
 ### Sliding Window
 
-| Задача                                                                        | Сложность | Решение                                                                                 |
-| ----------------------------------------------------------------------------- | --------- | --------------------------------------------------------------------------------------- |
-| [643. Maximum Average Subarray I](https://leetcode.com/problems/move-zeroes/) | `Easy`    | [maximum_average_subarray_i.dart](./lib/sliding_window/maximum_average_subarray_i.dart) |
+| Задача                                                                                                                                                  | Сложность | Решение                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [643. Maximum Average Subarray I](https://leetcode.com/problems/move-zeroes/)                                                                           | `Easy`    | [maximum_average_subarray_i.dart](./lib/sliding_window/maximum_average_subarray_i.dart)                                                           |
+| [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | `Medium`  | [maximum_number_of_vowels_in_a_substring_of_given_length.dart](./lib/sliding_window/maximum_number_of_vowels_in_a_substring_of_given_length.dart) |
