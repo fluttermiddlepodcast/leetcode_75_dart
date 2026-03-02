@@ -43,3 +43,4 @@
 | Задача                                                                                      | Сложность | Решение                                                                           |
 | ------------------------------------------------------------------------------------------- | --------- | --------------------------------------------------------------------------------- |
 | [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | `Easy`    | [find_the_highest_altitude.dart](./lib/prefix_sum/find_the_highest_altitude.dart) |
+| [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)                    | `Easy`    | [find_pivot_index.dart](./lib/prefix_sum/find_pivot_index.dart)                   |
