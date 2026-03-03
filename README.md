@@ -44,3 +44,9 @@
 | ------------------------------------------------------------------------------------------- | --------- | --------------------------------------------------------------------------------- |
 | [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | `Easy`    | [find_the_highest_altitude.dart](./lib/prefix_sum/find_the_highest_altitude.dart) |
 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)                    | `Easy`    | [find_pivot_index.dart](./lib/prefix_sum/find_pivot_index.dart)                   |
+
+### Hash Map / Set
+
+| Задача                                                                                                      | Сложность | Решение                                                                                             |
+| ----------------------------------------------------------------------------------------------------------- | --------- | --------------------------------------------------------------------------------------------------- |
+| [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | `Easy`    | [find_the_difference_of_two_arrays.dart](./lib/hash_map_set/find_the_difference_of_two_arrays.dart) |
