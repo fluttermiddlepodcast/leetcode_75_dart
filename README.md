@@ -50,3 +50,4 @@
 | Задача                                                                                                      | Сложность | Решение                                                                                             |
 | ----------------------------------------------------------------------------------------------------------- | --------- | --------------------------------------------------------------------------------------------------- |
 | [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | `Easy`    | [find_the_difference_of_two_arrays.dart](./lib/hash_map_set/find_the_difference_of_two_arrays.dart) |
+| [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)           | `Easy`    | [unique_number_of_occurrences.dart](./lib/hash_map_set/unique_number_of_occurrences.dart)           |
