@@ -52,3 +52,4 @@
 | [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)   | `Easy`    | [find_the_difference_of_two_arrays.dart](./lib/hash_map_set/find_the_difference_of_two_arrays.dart)   |
 | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)             | `Easy`    | [unique_number_of_occurrences.dart](./lib/hash_map_set/unique_number_of_occurrences.dart)             |
 | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | `Medium`  | [determine_if_two_strings_are_close.dart](./lib/hash_map_set/determine_if_two_strings_are_close.dart) |
+| [2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/)                 | `Medium`  | [equal_row_and_column_pairs.dart](./lib/hash_map_set/equal_row_and_column_pairs.dart)                 |
