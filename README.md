@@ -48,3 +48,4 @@
 
 - 🟡 [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) – [код](./lib/stack/removing_stars_from_a_string.dart)
 - 🟡 [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) – [код](./lib/stack/asteroid_collision.dart)
+- 🟡 [394. Decode String](https://leetcode.com/problems/decode-string/) – [код](./lib/stack/decode_string.dart)
