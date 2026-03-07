@@ -59,3 +59,4 @@
 | Задача                                                                                            | Сложность | Решение                                                                            |
 | ------------------------------------------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------- |
 | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | `Medium`  | [removing_stars_from_a_string.dart](./lib/stack/removing_stars_from_a_string.dart) |
+| [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)                      | `Medium`  | [asteroid_collision.dart](./lib/stack/asteroid_collision.dart)                     |
