@@ -1,5 +1,6 @@
 const _vowels = {'a', 'e', 'i', 'o', 'u'};
 
+// https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
 class MaximumNumberOfVowelsInASubstringOfGivenLength {
   int maxVowels(String s, int k) {
     var maxCount = 0;

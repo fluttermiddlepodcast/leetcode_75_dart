@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/removing-stars-from-a-string/
 class RemovingStarsFromAString {
   String removeStars(String s) {
     final stack = <String>[];

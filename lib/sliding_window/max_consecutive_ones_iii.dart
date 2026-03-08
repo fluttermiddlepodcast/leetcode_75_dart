@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/max-consecutive-ones-iii/
 class MaxConsecutiveOnesIII {
   int longestOnes(List<int> nums, int k) {
     var left = 0;
