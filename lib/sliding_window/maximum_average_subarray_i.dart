@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/maximum-average-subarray-i/
 class MaximumAverageSubarrayI {
   double findMaxAverage(List<int> nums, int k) {
     var sum = 0;

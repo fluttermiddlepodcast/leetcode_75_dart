@@ -1,5 +1,6 @@
 import 'dart:math';
 
+// https://leetcode.com/problems/find-the-highest-altitude/
 class FindTheHighestAltitude {
   int largestAltitude(List<int> gain) {
     var high = gain[0];

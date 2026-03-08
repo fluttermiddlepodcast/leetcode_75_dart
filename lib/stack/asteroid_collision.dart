@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/asteroid-collision/
 class AsteroidCollision {
   List<int> asteroidCollision(List<int> asteroids) {
     final stack = <int>[];

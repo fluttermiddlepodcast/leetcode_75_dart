@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/string-compression/
 class StringCompression {
   int compress(List<String> chars) {
     var write = 0;

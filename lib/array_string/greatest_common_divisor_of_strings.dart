@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/greatest-common-divisor-of-strings/
 class GreatestCommonDivisorOfStrings {
   String gcdOfStrings(String str1, String str2) {
     if (str1 + str2 != str2 + str1) {

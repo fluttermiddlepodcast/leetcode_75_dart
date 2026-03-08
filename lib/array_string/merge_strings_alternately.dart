@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/merge-strings-alternately/
 class MergeStringsAlternately {
   String mergeAlternately(String word1, String word2) {
     final merged = StringBuffer();

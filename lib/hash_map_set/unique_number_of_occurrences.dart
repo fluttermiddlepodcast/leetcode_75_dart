@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/unique-number-of-occurrences/
 class UniqueNumberOfOccurrences {
   bool uniqueOccurrences(List<int> arr) {
     final freq = <int, int>{};
