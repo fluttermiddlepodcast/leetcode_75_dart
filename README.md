@@ -53,3 +53,4 @@
 ### Queue
 
 - 🟢 [933. Number of Recent Calls](./lib/queue/number_of_recent_calls.dart)
+- 🟡 [649. Dota2 Senate](./lib/queue/dota2_senate.dart)
