@@ -54,3 +54,7 @@
 
 - 🟢 [933. Number of Recent Calls](./lib/queue/number_of_recent_calls.dart)
 - 🟡 [649. Dota2 Senate](./lib/queue/dota2_senate.dart)
+
+### Linked List
+
+- 🟡 [2095. Delete the Middle Node of a Linked List](./lib/linked_list/delete_the_middle_node_of_a_linked_list.dart)
