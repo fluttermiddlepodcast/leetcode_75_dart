@@ -58,3 +58,4 @@
 ### Linked List
 
 - 🟡 [2095. Delete the Middle Node of a Linked List](./lib/linked_list/delete_the_middle_node_of_a_linked_list.dart)
+- 🟡 [328. Odd Even Linked List](./lib/linked_list/odd_even_linked_list.dart)
