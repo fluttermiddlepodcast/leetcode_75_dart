@@ -61,3 +61,7 @@
 - 🟡 [328. Odd Even Linked List](./lib/linked_list/odd_even_linked_list.dart)
 - 🟢 [206. Reverse Linked List](./lib/linked_list/reverse_linked_list.dart)
 - 🟡 [2130. Maximum Twin Sum of a Linked List](./lib/linked_list/maximum_twin_sum_of_a_linked_list.dart)
+
+### Binary Tree - DFS
+
+- 🟢 [104. Maximum Depth of Binary Tree](./lib/binary_tree_dfs/maximum_depth_of_binary_tree.dart)
