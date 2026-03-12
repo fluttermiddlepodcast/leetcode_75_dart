@@ -65,3 +65,4 @@
 ### Binary Tree - DFS
 
 - 🟢 [104. Maximum Depth of Binary Tree](./lib/binary_tree_dfs/maximum_depth_of_binary_tree.dart)
+- 🟢 [872. Leaf-Similar Trees](./lib/binary_tree_dfs/leaf_similar_trees.dart)
