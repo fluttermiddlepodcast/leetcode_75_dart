@@ -1,6 +1,7 @@
 import 'package:leetcode_dart/binary_tree_dfs/maximum_depth_of_binary_tree.dart';
-import 'package:leetcode_dart/common/tree_node.dart';
 import 'package:test/test.dart';
+
+import '../common/binary_tree.dart';
 
 void main() {
   group(
@@ -13,14 +14,8 @@ void main() {
         () => expect(
           3,
           solution.maxDepth(
-            TreeNode(
-              3,
-              TreeNode(9),
-              TreeNode(
-                20,
-                TreeNode(15),
-                TreeNode(7),
-              ),
+            binaryTreeFromList(
+              [3, 9, 20, null, null, 15, 7],
             ),
           ),
         ),
@@ -31,10 +26,8 @@ void main() {
         () => expect(
           2,
           solution.maxDepth(
-            TreeNode(
-              1,
-              null,
-              TreeNode(2),
+            binaryTreeFromList(
+              [1, null, 2],
             ),
           ),
         ),

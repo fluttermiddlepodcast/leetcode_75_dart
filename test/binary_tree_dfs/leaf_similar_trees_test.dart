@@ -1,6 +1,7 @@
 import 'package:leetcode_dart/binary_tree_dfs/leaf_similar_trees.dart';
-import 'package:leetcode_dart/common/tree_node.dart';
 import 'package:test/test.dart';
+
+import '../common/binary_tree.dart';
 
 void main() {
   group(
@@ -13,39 +14,11 @@ void main() {
         () => expect(
           true,
           solution.leafSimilar(
-            TreeNode(
-              3,
-              TreeNode(
-                5,
-                TreeNode(6),
-                TreeNode(
-                  2,
-                  TreeNode(7),
-                  TreeNode(4),
-                ),
-              ),
-              TreeNode(
-                1,
-                TreeNode(9),
-                TreeNode(8),
-              ),
+            binaryTreeFromList(
+              [3, 5, 1, 6, 2, 9, 8, null, null, 7, 4],
             ),
-            TreeNode(
-              3,
-              TreeNode(
-                5,
-                TreeNode(6),
-                TreeNode(7),
-              ),
-              TreeNode(
-                1,
-                TreeNode(4),
-                TreeNode(
-                  2,
-                  TreeNode(9),
-                  TreeNode(8),
-                ),
-              ),
+            binaryTreeFromList(
+              [3, 5, 1, 6, 7, 4, 2, null, null, null, null, null, null, 9, 8],
             ),
           ),
         ),
@@ -56,15 +29,11 @@ void main() {
         () => expect(
           false,
           solution.leafSimilar(
-            TreeNode(
-              1,
-              TreeNode(2),
-              TreeNode(3),
+            binaryTreeFromList(
+              [1, 2, 3],
             ),
-            TreeNode(
-              1,
-              TreeNode(3),
-              TreeNode(2),
+            binaryTreeFromList(
+              [1, 3, 2],
             ),
           ),
         ),
