@@ -1,6 +1,7 @@
 import 'package:leetcode_dart/binary_tree_dfs/count_good_nodes_in_binary_tree.dart';
-import 'package:leetcode_dart/common/tree_node.dart';
 import 'package:test/test.dart';
+
+import '../common/binary_tree.dart';
 
 void main() {
   group(
@@ -13,18 +14,8 @@ void main() {
         () => expect(
           4,
           solution.goodNodes(
-            TreeNode(
-              3,
-              TreeNode(
-                1,
-                TreeNode(3),
-                null,
-              ),
-              TreeNode(
-                4,
-                TreeNode(1),
-                TreeNode(5),
-              ),
+            binaryTreeFromList(
+              [3, 1, 4, 3, null, 1, 5],
             ),
           ),
         ),
@@ -35,14 +26,8 @@ void main() {
         () => expect(
           3,
           solution.goodNodes(
-            TreeNode(
-              3,
-              TreeNode(
-                3,
-                TreeNode(4),
-                TreeNode(2),
-              ),
-              null,
+            binaryTreeFromList(
+              [3, 3, null, 4, 2],
             ),
           ),
         ),
@@ -53,7 +38,9 @@ void main() {
         () => expect(
           1,
           solution.goodNodes(
-            TreeNode(1),
+            binaryTreeFromList(
+              [1],
+            ),
           ),
         ),
       );

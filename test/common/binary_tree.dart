@@ -2,11 +2,7 @@ import 'dart:collection';
 
 import 'package:leetcode_dart/common/tree_node.dart';
 
-TreeNode? binaryTreeFromList(List<int?> values) {
-  if (values.isEmpty || values[0] == null) {
-    return null;
-  }
-
+TreeNode binaryTreeFromList(List<int?> values) {
   final root = TreeNode(values[0] as int);
   final queue = Queue<TreeNode?>();
   queue.add(root);
