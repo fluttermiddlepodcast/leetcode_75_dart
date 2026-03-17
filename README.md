@@ -69,3 +69,4 @@
 - 🟡 [1448. Count Good Nodes in Binary Tree](./lib/binary_tree_dfs/count_good_nodes_in_binary_tree.dart)
 - 🟡 [437. Path Sum III](./lib/binary_tree_dfs/path_sum_iii.dart)
 - 🟡 [1372. Longest ZigZag Path in a Binary Tree](./lib/binary_tree_dfs/longest_zigzag_path_in_a_binary_tree.dart)
+- 🟡 [236. Lowest Common Ancestor of a Binary Tree](./lib/binary_tree_dfs/lowest_common_ancestor_of_a_binary_tree.dart)
