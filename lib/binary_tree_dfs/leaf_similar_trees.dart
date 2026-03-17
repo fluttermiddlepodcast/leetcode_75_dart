@@ -1,5 +1,6 @@
 import 'package:leetcode_dart/common/tree_node.dart';
 
+// https://leetcode.com/problems/leaf-similar-trees/
 class LeafSimilarTrees {
   bool leafSimilar(TreeNode? root1, TreeNode? root2) {
     final root1Leafs = <int>[];

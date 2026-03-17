@@ -1,6 +1,6 @@
-// https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
 import 'package:leetcode_dart/common/list_node.dart';
 
+// https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
 class DeleteTheMiddleNodeOfALinkedList {
   ListNode? deleteMiddle(ListNode? head) {
     ListNode? prev;
