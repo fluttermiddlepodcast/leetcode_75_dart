@@ -2,6 +2,7 @@ import 'dart:math';
 
 import 'package:leetcode_dart/common/tree_node.dart';
 
+// https://leetcode.com/problems/count-good-nodes-in-binary-tree/
 class CountGoodNodesInBinaryTree {
   int goodNodes(TreeNode root) {
     return dfs(root, root.val);

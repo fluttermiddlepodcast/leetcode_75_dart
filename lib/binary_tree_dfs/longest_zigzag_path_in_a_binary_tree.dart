@@ -2,6 +2,7 @@ import 'dart:math';
 
 import 'package:leetcode_dart/common/tree_node.dart';
 
+// https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
 class LongestZigzagPathInABinaryTree {
   int longestZigZag(TreeNode? root) {
     if (root == null) {
