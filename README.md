@@ -75,3 +75,7 @@
 
 - 🟡 [199. Binary Tree Right Side View](./lib/binary_tree_bfs/binary_tree_right_side_view.dart)
 - 🟡 [1161. Maximum Level Sum of a Binary Tree](./lib/binary_tree_bfs/maximum_level_sum_of_a_binary_tree.dart)
+
+### Binary Search Tree
+
+- 🟢 [700. Search in a Binary Search Tree](./lib/binary_search_tree/search_in_a_binary_search_tree.dart)
