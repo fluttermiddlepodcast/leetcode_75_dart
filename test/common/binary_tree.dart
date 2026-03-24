@@ -37,3 +37,15 @@ TreeNode binaryTreeFromList(List<int?> values) {
 
   return root;
 }
+
+bool compareBinaryTrees(TreeNode? first, TreeNode? second) {
+  if (first != null && second != null) {
+    if (first.val != second.val) {
+      return false;
+    }
+
+    return compareBinaryTrees(first.left, second.left) && compareBinaryTrees(first.right, second.right);
+  }
+
+  return first == null && second == null;
+}
