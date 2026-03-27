@@ -8,7 +8,7 @@ void main() {
       final solution = KidsWithTheGreatestNumberOfCandies();
 
       test(
-        'true, true, true, false, true',
+        'Example 1',
         () => expect(
           [true, true, true, false, true],
           equals(
@@ -21,7 +21,7 @@ void main() {
       );
 
       test(
-        'true, false, false, false, false',
+        'Example 2',
         () => expect(
           [true, false, false, false, false],
           equals(
@@ -34,7 +34,7 @@ void main() {
       );
 
       test(
-        'true, false, true',
+        'Example 3',
         () => expect(
           [true, false, true],
           equals(

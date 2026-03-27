@@ -10,7 +10,7 @@ void main() {
       final solution = CountGoodNodesInBinaryTree();
 
       test(
-        '4',
+        'Example 1',
         () => expect(
           4,
           solution.goodNodes(
@@ -22,7 +22,7 @@ void main() {
       );
 
       test(
-        '3',
+        'Example 2',
         () => expect(
           3,
           solution.goodNodes(
@@ -34,7 +34,7 @@ void main() {
       );
 
       test(
-        '1',
+        'Example 3',
         () => expect(
           1,
           solution.goodNodes(

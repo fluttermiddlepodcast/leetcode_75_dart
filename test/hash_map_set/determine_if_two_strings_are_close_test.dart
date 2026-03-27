@@ -8,7 +8,7 @@ void main() {
       final solution = DetermineIfTwoStringsAreClose();
 
       test(
-        'true',
+        'Example 1',
         () => expect(
           true,
           solution.closeStrings(
@@ -19,7 +19,7 @@ void main() {
       );
 
       test(
-        'false',
+        'Example 2',
         () => expect(
           false,
           solution.closeStrings(
@@ -30,7 +30,7 @@ void main() {
       );
 
       test(
-        'true',
+        'Example 3',
         () => expect(
           true,
           solution.closeStrings(

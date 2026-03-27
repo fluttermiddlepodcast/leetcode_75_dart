@@ -10,7 +10,7 @@ void main() {
       final solution = LeafSimilarTrees();
 
       test(
-        'true',
+        'Example 1',
         () => expect(
           true,
           solution.leafSimilar(
@@ -25,7 +25,7 @@ void main() {
       );
 
       test(
-        'false',
+        'Example 2',
         () => expect(
           false,
           solution.leafSimilar(

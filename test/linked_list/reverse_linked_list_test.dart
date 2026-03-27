@@ -10,7 +10,7 @@ void main() {
       final solution = ReverseLinkedList();
 
       test(
-        '[5, 4, 3, 2, 1]',
+        'Example 1',
         () => expect(
           true,
           compareLinkedLists(
@@ -27,7 +27,7 @@ void main() {
       );
 
       test(
-        '[2, 1]',
+        'Example 2',
         () => expect(
           true,
           compareLinkedLists(
@@ -44,7 +44,7 @@ void main() {
       );
 
       test(
-        '',
+        'Example 3',
         () => expect(
           true,
           compareLinkedLists(

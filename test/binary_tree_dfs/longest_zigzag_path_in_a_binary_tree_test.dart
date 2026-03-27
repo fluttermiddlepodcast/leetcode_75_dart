@@ -10,7 +10,7 @@ void main() {
       final solution = LongestZigzagPathInABinaryTree();
 
       test(
-        '3',
+        'Example 1',
         () => expect(
           3,
           solution.longestZigZag(
@@ -22,7 +22,7 @@ void main() {
       );
 
       test(
-        '4',
+        'Example 2',
         () => expect(
           4,
           solution.longestZigZag(
@@ -34,7 +34,7 @@ void main() {
       );
 
       test(
-        '0',
+        'Example 3',
         () => expect(
           0,
           solution.longestZigZag(

@@ -8,7 +8,7 @@ void main() {
       final solution = ReverseVowelsOfAString();
 
       test(
-        'AceCreIm',
+        'Example 1',
         () => expect(
           'AceCreIm',
           solution.reverseVowels(
@@ -18,7 +18,7 @@ void main() {
       );
 
       test(
-        'leotcede',
+        'Example 2',
         () => expect(
           'leotcede',
           solution.reverseVowels(

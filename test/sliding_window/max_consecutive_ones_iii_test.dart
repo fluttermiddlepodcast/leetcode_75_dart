@@ -8,7 +8,7 @@ void main() {
       final solution = MaxConsecutiveOnesIII();
 
       test(
-        '6',
+        'Example 1',
         () => expect(
           6,
           solution.longestOnes(
@@ -19,7 +19,7 @@ void main() {
       );
 
       test(
-        '10',
+        'Example 2',
         () => expect(
           10,
           solution.longestOnes(

@@ -8,7 +8,7 @@ void main() {
       final solution = CanPlaceFlowers();
 
       test(
-        'true',
+        'Example 1',
         () => expect(
           true,
           solution.canPlaceFlowers(
@@ -19,7 +19,7 @@ void main() {
       );
 
       test(
-        'false',
+        'Example 2',
         () => expect(
           false,
           solution.canPlaceFlowers(

@@ -8,7 +8,7 @@ void main() {
       final solution = FindTheHighestAltitude();
 
       test(
-        '1',
+        'Example 1',
         () => expect(
           1,
           solution.largestAltitude(
@@ -18,7 +18,7 @@ void main() {
       );
 
       test(
-        '0',
+        'Example 2',
         () => expect(
           0,
           solution.largestAltitude(

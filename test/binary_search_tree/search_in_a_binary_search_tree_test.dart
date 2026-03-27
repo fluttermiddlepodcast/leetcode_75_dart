@@ -11,7 +11,7 @@ void main() {
       final solution = SearchInABinarySearchTree();
 
       test(
-        '[2, 1, 3]',
+        'Example 1',
         () {
           final targetNode = binaryTreeFromList(
             [2, 1, 3],
@@ -33,7 +33,7 @@ void main() {
       );
 
       test(
-        '[]',
+        'Example 2',
         () => expect(
           null,
           solution.searchBST(

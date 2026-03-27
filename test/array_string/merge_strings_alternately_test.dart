@@ -8,7 +8,7 @@ void main() {
       final solution = MergeStringsAlternately();
 
       test(
-        'apbqcr',
+        'Example 1',
         () => expect(
           'apbqcr',
           solution.mergeAlternately(
@@ -19,7 +19,7 @@ void main() {
       );
 
       test(
-        'apbqrs',
+        'Example 2',
         () => expect(
           'apbqrs',
           solution.mergeAlternately(
@@ -30,7 +30,7 @@ void main() {
       );
 
       test(
-        'apbqcd',
+        'Example 3',
         () => expect(
           'apbqcd',
           solution.mergeAlternately(

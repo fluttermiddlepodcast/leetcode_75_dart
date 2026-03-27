@@ -8,7 +8,7 @@ void main() {
       final solution = DecodeString();
 
       test(
-        'aaabcbc',
+        'Example 1',
         () => expect(
           'aaabcbc',
           solution.decodeString(
@@ -18,7 +18,7 @@ void main() {
       );
 
       test(
-        'accaccacc',
+        'Example 2',
         () => expect(
           'accaccacc',
           solution.decodeString(
@@ -28,7 +28,7 @@ void main() {
       );
 
       test(
-        'abcabccdcdcdef',
+        'Example 3',
         () => expect(
           'abcabccdcdcdef',
           solution.decodeString(

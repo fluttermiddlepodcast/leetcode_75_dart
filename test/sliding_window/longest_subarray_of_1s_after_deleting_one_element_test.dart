@@ -8,7 +8,7 @@ void main() {
       final solution = LongestSubarrayOf1sAfterDeletingOneElement();
 
       test(
-        '3',
+        'Example 1',
         () => expect(
           3,
           solution.longestSubarray(
@@ -18,7 +18,7 @@ void main() {
       );
 
       test(
-        '5',
+        'Example 2',
         () => expect(
           5,
           solution.longestSubarray(
@@ -28,7 +28,7 @@ void main() {
       );
 
       test(
-        '2',
+        'Example 3',
         () => expect(
           2,
           solution.longestSubarray(

@@ -8,7 +8,7 @@ void main() {
       final solution = StringCompression();
 
       test(
-        '6',
+        'Example 1',
         () {
           final input = ["a", "a", "b", "b", "c", "c", "c"];
 
@@ -25,7 +25,7 @@ void main() {
       );
 
       test(
-        '1',
+        'Example 2',
         () {
           final input = ["a"];
 
@@ -42,7 +42,7 @@ void main() {
       );
 
       test(
-        '4',
+        'Example 3',
         () {
           final input = ["a", "b", "b", "b", "b", "b", "b", "b", "b", "b", "b", "b", "b"];
 

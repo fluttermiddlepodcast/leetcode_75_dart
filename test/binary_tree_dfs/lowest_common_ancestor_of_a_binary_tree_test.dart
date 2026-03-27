@@ -9,7 +9,7 @@ void main() {
       final solution = LowestCommonAncestorOfABinaryTree();
 
       test(
-        '3',
+        'Example 1',
         () {
           final p = TreeNode(
             5,
@@ -39,7 +39,7 @@ void main() {
       );
 
       test(
-        '5',
+        'Example 2',
         () {
           final q = TreeNode(4);
           final p = TreeNode(
@@ -73,7 +73,7 @@ void main() {
       );
 
       test(
-        '1',
+        'Example 3',
         () {
           final q = TreeNode(2);
           final p = TreeNode(1, q);

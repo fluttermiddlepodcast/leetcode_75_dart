@@ -8,7 +8,7 @@ void main() {
       final solution = ReverseWordsInAString();
 
       test(
-        'blue is sky the',
+        'Example 1',
         () => expect(
           'blue is sky the',
           solution.reverseWords(
@@ -18,7 +18,7 @@ void main() {
       );
 
       test(
-        'world hello',
+        'Example 2',
         () => expect(
           'world hello',
           solution.reverseWords(
@@ -28,7 +28,7 @@ void main() {
       );
 
       test(
-        'example good a',
+        'Example 3',
         () => expect(
           'example good a',
           solution.reverseWords(

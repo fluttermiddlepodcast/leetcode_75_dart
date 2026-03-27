@@ -8,7 +8,7 @@ void main() {
       final solution = ContainerWithMostWater();
 
       test(
-        '49',
+        'Example 1',
         () => expect(
           49,
           solution.maxArea(
@@ -18,7 +18,7 @@ void main() {
       );
 
       test(
-        '1',
+        'Example 2',
         () => expect(
           1,
           solution.maxArea(

@@ -8,7 +8,7 @@ void main() {
       final solution = MaximumNumberOfVowelsInASubstringOfGivenLength();
 
       test(
-        '3',
+        'Example 1',
         () => expect(
           3,
           solution.maxVowels(
@@ -19,7 +19,7 @@ void main() {
       );
 
       test(
-        '2',
+        'Example 2',
         () => expect(
           2,
           solution.maxVowels(
@@ -30,7 +30,7 @@ void main() {
       );
 
       test(
-        '2',
+        'Example 3',
         () => expect(
           2,
           solution.maxVowels(

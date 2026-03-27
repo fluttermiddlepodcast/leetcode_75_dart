@@ -8,7 +8,7 @@ void main() {
       final solution = FindPivotIndex();
 
       test(
-        '3',
+        'Example 1',
         () => expect(
           3,
           solution.pivotIndex(
@@ -18,7 +18,7 @@ void main() {
       );
 
       test(
-        '-1',
+        'Example 2',
         () => expect(
           -1,
           solution.pivotIndex(
@@ -28,7 +28,7 @@ void main() {
       );
 
       test(
-        '0',
+        'Example 3',
         () => expect(
           0,
           solution.pivotIndex(

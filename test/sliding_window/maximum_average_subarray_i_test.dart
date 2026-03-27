@@ -8,7 +8,7 @@ void main() {
       final solution = MaximumAverageSubarrayI();
 
       test(
-        '12.75000',
+        'Example 1',
         () => expect(
           12.75000,
           solution.findMaxAverage(
@@ -19,7 +19,7 @@ void main() {
       );
 
       test(
-        '5.00000',
+        'Example 2',
         () => expect(
           5.00000,
           solution.findMaxAverage(
