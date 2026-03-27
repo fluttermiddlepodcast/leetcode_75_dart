@@ -8,7 +8,7 @@ void main() {
       final solution = RemovingStarsFromAString();
 
       test(
-        'lecoe',
+        'Example 1',
         () => expect(
           'lecoe',
           solution.removeStars(
@@ -18,7 +18,7 @@ void main() {
       );
 
       test(
-        '',
+        'Example 2',
         () => expect(
           '',
           solution.removeStars(

@@ -8,7 +8,7 @@ void main() {
       final solution = FindTheDifferenceOfTwoArrays();
 
       test(
-        '[[1, 3], [4, 6]]',
+        'Example 1',
         () => expect(
           [
             [1, 3],
@@ -24,7 +24,7 @@ void main() {
       );
 
       test(
-        '[[3], []]',
+        'Example 2',
         () => expect(
           [
             [3],

@@ -8,7 +8,7 @@ void main() {
       final solution = UniqueNumberOfOccurrences();
 
       test(
-        'true',
+        'Example 1',
         () => expect(
           true,
           solution.uniqueOccurrences(
@@ -18,7 +18,7 @@ void main() {
       );
 
       test(
-        'false',
+        'Example 2',
         () => expect(
           false,
           solution.uniqueOccurrences(
@@ -28,7 +28,7 @@ void main() {
       );
 
       test(
-        'true',
+        'Example 3',
         () => expect(
           true,
           solution.uniqueOccurrences(

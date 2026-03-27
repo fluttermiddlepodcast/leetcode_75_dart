@@ -8,7 +8,7 @@ void main() {
       final solution = GreatestCommonDivisorOfStrings();
 
       test(
-        'ABC',
+        'Example 1',
         () => expect(
           'ABC',
           solution.gcdOfStrings(
@@ -19,7 +19,7 @@ void main() {
       );
 
       test(
-        'AB',
+        'Example 2',
         () => expect(
           'AB',
           solution.gcdOfStrings(
@@ -30,7 +30,7 @@ void main() {
       );
 
       test(
-        '',
+        'Example 3',
         () => expect(
           '',
           solution.gcdOfStrings(
@@ -41,7 +41,7 @@ void main() {
       );
 
       test(
-        '',
+        'Example 4',
         () => expect(
           '',
           solution.gcdOfStrings(

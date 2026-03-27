@@ -8,7 +8,7 @@ void main() {
       final solution = ProductOfArrayExceptSelf();
 
       test(
-        '24, 12, 8, 6',
+        'Example 1',
         () => expect(
           [24, 12, 8, 6],
           equals(
@@ -20,7 +20,7 @@ void main() {
       );
 
       test(
-        '0, 0, 9, 0, 0',
+        'Example 2',
         () => expect(
           [0, 0, 9, 0, 0],
           equals(

@@ -8,7 +8,7 @@ void main() {
       final solution = AsteroidCollision();
 
       test(
-        '[5, 10]',
+        'Example 1',
         () => expect(
           [5, 10],
           equals(
@@ -20,7 +20,7 @@ void main() {
       );
 
       test(
-        '[]',
+        'Example 2',
         () => expect(
           [],
           equals(
@@ -32,7 +32,7 @@ void main() {
       );
 
       test(
-        '[-6, 2, 4]',
+        'Example 3',
         () => expect(
           [-6, 2, 4],
           equals(

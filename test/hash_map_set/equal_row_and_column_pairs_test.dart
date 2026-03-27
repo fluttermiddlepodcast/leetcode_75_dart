@@ -8,7 +8,7 @@ void main() {
       final solution = EqualRowAndColumnPairs();
 
       test(
-        '1',
+        'Example 1',
         () => expect(
           1,
           solution.equalPairs(
@@ -22,7 +22,7 @@ void main() {
       );
 
       test(
-        '3',
+        'Example 2',
         () => expect(
           3,
           solution.equalPairs(

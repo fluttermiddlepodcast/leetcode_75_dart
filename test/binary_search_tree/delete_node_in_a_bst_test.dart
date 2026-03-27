@@ -10,7 +10,7 @@ void main() {
       final solution = DeleteNodeInABST();
 
       test(
-        '[5, 4, 6, 2, null, null, 7]',
+        'Example 1',
         () => expect(
           true,
           compareBinaryTrees(
@@ -28,7 +28,7 @@ void main() {
       );
 
       test(
-        '[5, 3, 6, 2, 4, null, 7]',
+        'Example 2',
         () => expect(
           true,
           compareBinaryTrees(
@@ -46,7 +46,7 @@ void main() {
       );
 
       test(
-        '[]',
+        'Example 3',
         () => expect(
           true,
           compareBinaryTrees(

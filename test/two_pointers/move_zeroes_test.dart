@@ -8,7 +8,7 @@ void main() {
       final solution = MoveZeroes();
 
       test(
-        '[1, 3, 12, 0, 0]',
+        'Example 1',
         () {
           final input = [0, 1, 0, 3, 12];
 
@@ -22,7 +22,7 @@ void main() {
       );
 
       test(
-        '[0]',
+        'Example 2',
         () {
           final input = [0];
 

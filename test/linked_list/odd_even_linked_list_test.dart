@@ -10,7 +10,7 @@ void main() {
       final solution = OddEvenLinkedList();
 
       test(
-        '[1, 3, 5, 2, 4]',
+        'Example 1',
         () => expect(
           true,
           compareLinkedLists(
@@ -27,7 +27,7 @@ void main() {
       );
 
       test(
-        '[2, 3, 6, 7, 1, 5, 4]',
+        'Example 2',
         () => expect(
           true,
           compareLinkedLists(

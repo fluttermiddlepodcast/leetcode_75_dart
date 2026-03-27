@@ -8,7 +8,7 @@ void main() {
       final solution = IncreasingTripletSubsequence();
 
       test(
-        'true',
+        'Example 1',
         () => expect(
           true,
           solution.increasingTriplet(
@@ -18,7 +18,7 @@ void main() {
       );
 
       test(
-        'false',
+        'Example 2',
         () => expect(
           false,
           solution.increasingTriplet(
@@ -28,7 +28,7 @@ void main() {
       );
 
       test(
-        'true',
+        'Example 3',
         () => expect(
           true,
           solution.increasingTriplet(

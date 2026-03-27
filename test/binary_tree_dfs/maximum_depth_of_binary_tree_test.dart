@@ -10,7 +10,7 @@ void main() {
       final solution = MaximumDepthOfBinaryTree();
 
       test(
-        '3',
+        'Example 1',
         () => expect(
           3,
           solution.maxDepth(
@@ -22,7 +22,7 @@ void main() {
       );
 
       test(
-        '2',
+        'Example 2',
         () => expect(
           2,
           solution.maxDepth(

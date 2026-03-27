@@ -8,7 +8,7 @@ void main() {
       final solution = Dota2Senate();
 
       test(
-        'Radiant',
+        'Example 1',
         () => expect(
           'Radiant',
           solution.predictPartyVictory('RD'),
@@ -16,7 +16,7 @@ void main() {
       );
 
       test(
-        'Dire',
+        'Example 2',
         () => expect(
           'Dire',
           solution.predictPartyVictory('RDD'),

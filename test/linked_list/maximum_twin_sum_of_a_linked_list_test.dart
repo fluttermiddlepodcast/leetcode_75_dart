@@ -10,7 +10,7 @@ void main() {
       final solution = MaximumTwinSumOfALinkedList();
 
       test(
-        '6',
+        'Example 1',
         () => expect(
           6,
           solution.pairSum(
@@ -22,7 +22,7 @@ void main() {
       );
 
       test(
-        '7',
+        'Example 2',
         () => expect(
           7,
           solution.pairSum(
@@ -34,7 +34,7 @@ void main() {
       );
 
       test(
-        '100001',
+        'Example 3',
         () => expect(
           100001,
           solution.pairSum(

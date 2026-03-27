@@ -8,7 +8,7 @@ void main() {
       final recentCounter = RecentCounter();
 
       test(
-        '1',
+        'Example 1',
         () => expect(
           1,
           recentCounter.ping(1),
@@ -16,7 +16,7 @@ void main() {
       );
 
       test(
-        '2',
+        'Example 2',
         () => expect(
           2,
           recentCounter.ping(100),
@@ -24,7 +24,7 @@ void main() {
       );
 
       test(
-        '3',
+        'Example 3',
         () => expect(
           3,
           recentCounter.ping(3001),
@@ -32,7 +32,7 @@ void main() {
       );
 
       test(
-        '3',
+        'Example 4',
         () => expect(
           3,
           recentCounter.ping(3002),

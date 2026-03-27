@@ -10,7 +10,7 @@ void main() {
       final solution = BinaryTreeRightSideView();
 
       test(
-        '[1, 3, 4]',
+        'Example 1',
         () => expect(
           [1, 3, 4],
           equals(
@@ -24,7 +24,7 @@ void main() {
       );
 
       test(
-        '[1, 3, 4, 5]',
+        'Example 2',
         () => expect(
           [1, 3, 4, 5],
           equals(
@@ -38,7 +38,7 @@ void main() {
       );
 
       test(
-        '[1, 3]',
+        'Example 3',
         () => expect(
           [1, 3],
           equals(
@@ -52,7 +52,7 @@ void main() {
       );
 
       test(
-        '[]',
+        'Example 4',
         () => expect(
           [],
           equals(

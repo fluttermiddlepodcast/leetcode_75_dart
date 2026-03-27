@@ -8,7 +8,7 @@ void main() {
       final solution = MaxNumberOfKSumPairs();
 
       test(
-        '2',
+        'Example 1',
         () => expect(
           2,
           solution.countPairs(
@@ -19,7 +19,7 @@ void main() {
       );
 
       test(
-        '1',
+        'Example 2',
         () => expect(
           1,
           solution.countPairs(

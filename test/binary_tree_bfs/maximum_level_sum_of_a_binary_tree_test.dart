@@ -10,7 +10,7 @@ void main() {
       final solution = MaximumLevelSumOfABinaryTree();
 
       test(
-        '2',
+        'Example 1',
         () => expect(
           2,
           equals(
@@ -24,7 +24,7 @@ void main() {
       );
 
       test(
-        '2',
+        'Example 2',
         () => expect(
           2,
           equals(

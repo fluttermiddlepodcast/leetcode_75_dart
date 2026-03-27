@@ -10,7 +10,7 @@ void main() {
       final solution = DeleteTheMiddleNodeOfALinkedList();
 
       test(
-        '[1, 3, 4, 1, 2, 6]',
+        'Example 1',
         () => expect(
           true,
           compareLinkedLists(
@@ -27,7 +27,7 @@ void main() {
       );
 
       test(
-        '[1, 2, 4]',
+        'Example 2',
         () => expect(
           true,
           compareLinkedLists(
@@ -44,7 +44,7 @@ void main() {
       );
 
       test(
-        '[2]',
+        'Example 3',
         () => expect(
           true,
           compareLinkedLists(
