@@ -80,3 +80,7 @@
 
 - 🟢 [700. Search in a Binary Search Tree](./lib/binary_search_tree/search_in_a_binary_search_tree.dart)
 - 🟡 [450. Delete Node in a BST](./lib/binary_tree_bfs/delete_node_in_a_bst.dart)
+
+### Graphs - DFS
+
+- 🟡 [841. Keys and Rooms](./lib/graphs_dfs/keys_and_rooms.dart)
