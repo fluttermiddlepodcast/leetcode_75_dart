@@ -84,3 +84,4 @@
 ### Graphs - DFS
 
 - 🟡 [841. Keys and Rooms](./lib/graphs_dfs/keys_and_rooms.dart)
+- 🟡 [547. Number of Provinces](./lib/graphs_dfs/number_of_provinces.dart)
