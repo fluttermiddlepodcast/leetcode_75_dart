@@ -87,3 +87,7 @@
 - 🟡 [547. Number of Provinces](./lib/graphs_dfs/number_of_provinces.dart)
 - 🟡 [1466. Reorder Routes to Make All Paths Lead to the City Zero](./lib/graphs_dfs/reorder_routes_to_make_all_paths_lead_to_the_city_zero.dart)
 - 🟡 [399. Evaluate Division](./lib/graphs_dfs/evaluate_division.dart)
+
+### Graphs - BFS
+
+- 🟡 [1926. Nearest Exit from Entrance in Maze](./lib/graphs_bfs/nearest_exit_from_entrance_in_maze.dart)
