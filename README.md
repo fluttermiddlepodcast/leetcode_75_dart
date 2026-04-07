@@ -96,3 +96,4 @@
 ### Heap / Priority Queue
 
 - 🟡 [215. Kth Largest Element in an Array](./lib/heap_priority_queue/kth_largest_element_in_an_array.dart)
+- 🟡 [2336. Smallest Number in Infinite Set](./lib/heap_priority_queue/smallest_number_in_infinite_set.dart)
