@@ -98,3 +98,4 @@
 - 🟡 [215. Kth Largest Element in an Array](./lib/heap_priority_queue/kth_largest_element_in_an_array.dart)
 - 🟡 [2336. Smallest Number in Infinite Set](./lib/heap_priority_queue/smallest_number_in_infinite_set.dart)
 - 🟡 [2542. Maximum Subsequence Score](./lib/heap_priority_queue/maximum_subsequence_score.dart)
+- 🟡 [2462. Total Cost to Hire K Workers](./lib/heap_priority_queue/total_cost_to_hire_k_workers.dart)
