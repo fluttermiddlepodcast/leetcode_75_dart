@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
 class ReorderRoutesToMakeAllPathsLeadToTheCityZero {
   int minReorder(int n, List<List<int>> connections) {
     final neighborhood = List.generate(n, (_) => []);

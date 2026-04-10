@@ -1,5 +1,6 @@
 import 'package:collection/collection.dart';
 
+// https://leetcode.com/problems/smallest-number-in-infinite-set/
 class SmallestInfiniteSet {
   final _heap = HeapPriorityQueue<int>();
   final _inHeap = <int>{};

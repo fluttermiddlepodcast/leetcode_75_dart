@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
 class NearestExitFromEntranceInMaze {
   int nearestExit(List<List<String>> maze, List<int> entrance) {
     final rows = maze.length;

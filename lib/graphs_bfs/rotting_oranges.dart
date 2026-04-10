@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/rotting-oranges/
 class RottingOranges {
   int orangesRotting(List<List<int>> grid) {
     if (grid.isEmpty) {
