@@ -2,6 +2,7 @@ import 'dart:math';
 
 import 'package:collection/collection.dart';
 
+// https://leetcode.com/problems/maximum-subsequence-score/
 class MaximumSubsequenceScore {
   int maxScore(List<int> nums1, List<int> nums2, int k) {
     final pairs = List<List<int>>.generate(nums1.length, (i) => [nums2[i], nums1[i]]);

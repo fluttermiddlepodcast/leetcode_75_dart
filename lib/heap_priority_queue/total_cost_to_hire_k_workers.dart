@@ -1,5 +1,6 @@
 import 'package:collection/collection.dart';
 
+// https://leetcode.com/problems/total-cost-to-hire-k-workers/
 class TotalCostToHireKWorkers {
   int totalCost(List<int> costs, int k, int candidates) {
     comparator(List<int> a, List<int> b) => a[0] != b[0] ? a[0].compareTo(b[0]) : a[1].compareTo(b[1]);

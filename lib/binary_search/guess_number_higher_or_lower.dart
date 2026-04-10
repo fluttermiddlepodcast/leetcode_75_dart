@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/guess-number-higher-or-lower/
 class GuessNumberHigherOrLower {
   final int input;
   final int guess;
