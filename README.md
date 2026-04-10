@@ -99,3 +99,7 @@
 - 🟡 [2336. Smallest Number in Infinite Set](./lib/heap_priority_queue/smallest_number_in_infinite_set.dart)
 - 🟡 [2542. Maximum Subsequence Score](./lib/heap_priority_queue/maximum_subsequence_score.dart)
 - 🟡 [2462. Total Cost to Hire K Workers](./lib/heap_priority_queue/total_cost_to_hire_k_workers.dart)
+
+### Binary Search
+
+- 🟢 [374. Guess Number Higher or Lower](./lib/binary_search/guess_number_higher_or_lower.dart)
