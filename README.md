@@ -103,3 +103,4 @@
 ### Binary Search
 
 - 🟢 [374. Guess Number Higher or Lower](./lib/binary_search/guess_number_higher_or_lower.dart)
+- 🟡 [2300. Successful Pairs of Spells and Potions](./lib/binary_search/successful_pairs_of_spells_and_potions.dart)
