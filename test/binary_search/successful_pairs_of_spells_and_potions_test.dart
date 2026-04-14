@@ -22,7 +22,7 @@ void main() {
       );
 
       test(
-        'Example 1',
+        'Example 2',
         () => expect(
           [2, 0, 2],
           equals(

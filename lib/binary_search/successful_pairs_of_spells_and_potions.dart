@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
 class SuccessfulPairsOfSpellsAndPotions {
   List<int> successfulPairs(List<int> spells, List<int> potions, int success) {
     potions.sort();
