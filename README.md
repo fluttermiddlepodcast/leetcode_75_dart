@@ -111,3 +111,7 @@
 
 - 🟡 [17. Letter Combinations of a Phone Number](./lib/backtracking/letter_combinations_of_a_phone_number.dart)
 - 🟡 [216. Combination Sum III](./lib/backtracking/combination_sum_iii.dart)
+
+### DP - 1D
+
+- 🟢 [1137. N-th Tribonacci Number](./lib/dp_1d/nth_tribonacci_number.dart)
