@@ -117,3 +117,4 @@
 - 🟢 [1137. N-th Tribonacci Number](./lib/dp_1d/nth_tribonacci_number.dart)
 - 🟢 [746. Min Cost Climbing Stairs](./lib/dp_1d/min_cost_climbing_stairs.dart)
 - 🟡 [198. House Robber](./lib/dp_1d/house_robber.dart)
+- 🟡 [790. Domino and Tromino Tiling](./lib/dp_1d/domino_and_tromino_tiling.dart)
