@@ -118,3 +118,7 @@
 - 🟢 [746. Min Cost Climbing Stairs](./lib/dp_1d/min_cost_climbing_stairs.dart)
 - 🟡 [198. House Robber](./lib/dp_1d/house_robber.dart)
 - 🟡 [790. Domino and Tromino Tiling](./lib/dp_1d/domino_and_tromino_tiling.dart)
+
+### DP - Multidimensional
+
+- 🟡 [62. Unique Paths](./lib/dp_multidimensional/unique_paths.dart)
