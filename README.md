@@ -122,3 +122,4 @@
 ### DP - Multidimensional
 
 - 🟡 [62. Unique Paths](./lib/dp_multidimensional/unique_paths.dart)
+- 🟡 [1143. Longest Common Subsequence](./lib/dp_multidimensional/longest_common_subsequence.dart)
