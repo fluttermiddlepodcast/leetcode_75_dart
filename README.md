@@ -125,3 +125,9 @@
 - 🟡 [1143. Longest Common Subsequence](./lib/dp_multidimensional/longest_common_subsequence.dart)
 - 🟡 [714. Best Time to Buy and Sell Stock with Transaction Fee](./lib/dp_multidimensional/best_time_to_buy_and_sell_stock_with_transaction_fee.dart)
 - 🟡 [72. Edit Distance](./lib/dp_multidimensional/edit_distance.dart)
+
+### Bit Manipulation
+
+- 🟢 [338. Counting Bits](./lib/bit_manipulation/counting_bits.dart)
+- 🟢 [136. Single Number](./lib/bit_manipulation/single_number.dart)
+- 🟡 [1318. Minimum Flips to Make a OR b Equal to c](./lib/bit_manipulation/minimum_flips_to_make_a_or_b_equal_to_c.dart)
