@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/
 class MinimumFlipsToMakeAORBEqualToC {
   int minFlips(int a, int b, int c) {
     var flips = 0;
