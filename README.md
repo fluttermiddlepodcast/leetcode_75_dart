@@ -131,3 +131,8 @@
 - 🟢 [338. Counting Bits](./lib/bit_manipulation/counting_bits.dart)
 - 🟢 [136. Single Number](./lib/bit_manipulation/single_number.dart)
 - 🟡 [1318. Minimum Flips to Make a OR b Equal to c](./lib/bit_manipulation/minimum_flips_to_make_a_or_b_equal_to_c.dart)
+
+### Trie
+
+- 🟡 [208. Implement Trie (Prefix Tree)](./lib/trie/implement_trie_prefix_tree.dart)
+- 🟡 [1268. Search Suggestions System](./lib/trie/search_suggestions_system.dart)
