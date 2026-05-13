@@ -136,3 +136,8 @@
 
 - 🟡 [208. Implement Trie (Prefix Tree)](./lib/trie/implement_trie_prefix_tree.dart)
 - 🟡 [1268. Search Suggestions System](./lib/trie/search_suggestions_system.dart)
+
+### Intervals
+
+- 🟡 [435. Non-overlapping Intervals](./lib/intervals/non_overlapping_intervals.dart)
+- 🟡 [452. Minimum Number of Arrows to Burst Balloons](./lib/intervals/minimum_number_of_arrows_to_burst_balloons.dart)
