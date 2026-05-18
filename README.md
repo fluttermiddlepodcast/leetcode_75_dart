@@ -4,7 +4,7 @@
 
 <img src="./screenshots/leetcode_75.png" alt="drawing" width="600"/>
 
-Решенные задачи из списка LeetCode 75 на Дарте.
+Решенные задачи из списка [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) на Дарте.
 
 ## Список задач
 
