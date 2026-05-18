@@ -1,6 +1,6 @@
 # LeetCode 75
 
-![GitHub Actions](https://github.com/fluttermiddlepodcast/leetcode_75_dart/actions/workflows/dart.yaml/badge.svg)
+![GitHub Actions](https://github.com/fluttermiddlepodcast/leetcode_75_dart/actions/workflows/dart.yml/badge.svg)
 
 <img src="./screenshots/leetcode_75.png" alt="drawing" width="600"/>
 
