@@ -2,6 +2,8 @@
 
 ![GitHub Actions](https://github.com/fluttermiddlepodcast/leetcode_75_dart/actions/workflows/dart.yaml/badge.svg)
 
+<img src="./screenshots/leetcode_75.png" alt="drawing" width="600"/>
+
 Решенные задачи из списка LeetCode 75 на Дарте.
 
 ## Список задач
@@ -141,3 +143,8 @@
 
 - 🟡 [435. Non-overlapping Intervals](./lib/intervals/non_overlapping_intervals.dart)
 - 🟡 [452. Minimum Number of Arrows to Burst Balloons](./lib/intervals/minimum_number_of_arrows_to_burst_balloons.dart)
+
+### Monotonic Stack
+
+- 🟡 [739. Daily Temperatures](./lib/monotonic_stack/daily_temperatures.dart)
+- 🟡 [901. Online Stock Span](./lib/monotonic_stack/online_stock_span.dart)
